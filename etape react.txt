@@ -1,0 +1,11 @@
+Installation steps
+=================
+1,  Create new app
+           npx create-react-app employee
+2,  Create routing
+           npm install react-router-dom
+3,  Install bootstrap
+          npm install bootstrap
+ 4,  Install Json-Server
+           npm install -g json-server
+	   json-server --watch db.json --port ++++++
